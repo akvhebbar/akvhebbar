@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ashik Hebbar</h1>
 
-<h3 align="center">Software Developer | B.Tech CSE (IoT, Cybersecurity & Blockchain)</h3>
+<h3 align="center">Software Developer | Blockchain Enthusiast| B.Tech CSE (IoT, Cybersecurity & Blockchain)</h3>
 
 I am a Bangalore-based software developer currently seeking entry-level roles where I can contribute to impactful projects and continue expanding my technical skill set. I am studying at REVA University and enjoy building a wide range of solutions—from modern, intuitive web applications to decentralized blockchain platforms and automated IoT systems.
 
