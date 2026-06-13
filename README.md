@@ -29,9 +29,9 @@ A clear example of this approach is a project I built to solve critical ineffici
   
 * **[CineDiscover](https://github.com/akvhebbar/Cine-Discover-React-App):** A responsive Single Page Application (SPA) designed as a deep-dive project to master core React concepts and address user decision fatigue on movie discovery platforms.
   
-	•	Implemented efficient client-side routing and optimized global state management using modern React hooks to reduce     		component re-renders and ensure fluid UI transitions.
-	•	Acted as the sole developer to construct a lag-free, animation-driven interface that dynamically fetches and renders 		live cinematic data via the TMDB API.
-	•	Tech Stack: The project was built using React, Vite, TMDB API, React Router, Modern Hooks, and CSS Animations.
+  	* Implemented efficient client-side routing and optimized global state management using modern React hooks to reduce     		component re-renders and ensure fluid UI 	  transitions.
+	* Acted as the sole developer to construct a lag-free, animation-driven interface that dynamically fetches and renders 		live cinematic data via the TMDB API.
+	* Tech Stack: The project was built using React, Vite, TMDB API, React Router, Modern Hooks, and CSS Animations.
 
 * **[RFID Attendance System](https://github.com/akvhebbar/RFID-Attendance-Marking):** An automated, IoT-based attendance solution leveraging an ESP32 microcontroller and RFID cards, featuring real-time data logging to Google Sheets and instant SMS alerts via the Twilio API.
 
