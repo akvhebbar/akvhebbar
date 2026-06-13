@@ -16,7 +16,8 @@ A clear example of this approach is a project I built to solve critical ineffici
 ## 🚀 Featured Projects
 
 * **[Atomic Settlement Platform](https://github.com/akvhebbar/Atomic-Settlement-Project):** A decentralized Ethereum settlement protocol designed to automate dispute resolution and trigger instant, trustless refunds without manual third-party intermediaries.
-   **Reconciliation Lag** — When a user pays for an online service that fails to deliver, traditional payment processors     														take 7–45 days to issue a refund due to three root causes:
+
+  **Reconciliation Lag** — When a user pays for an online service that fails to deliver, traditional payment processors     														take 7–45 days to issue a refund due to three root causes:
 
   		* Centralized Intermediaries: Banks and third-party gateways control and slow down the process.
     	* No Transparency: Users cannot track or audit what is happening with their funds.
