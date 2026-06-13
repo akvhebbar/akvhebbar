@@ -34,7 +34,3 @@ A clear example of this approach is a project I built to solve critical ineffici
 	* Tech Stack: The project was built using React, Vite, TMDB API, React Router, Modern Hooks, and CSS Animations.
 
 * **[RFID Attendance System](https://github.com/akvhebbar/RFID-Attendance-Marking):** An automated, IoT-based attendance solution leveraging an ESP32 microcontroller and RFID cards, featuring real-time data logging to Google Sheets and instant SMS alerts via the Twilio API.
-
-
-Let’s connect to discuss how I can add value to your engineering team!
-
